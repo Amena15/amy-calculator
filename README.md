@@ -13,7 +13,7 @@ A simple, user-friendly calculator application built with Java. This app allows 
 
 - **Java**: The main programming language used to build the application.
 - **Swing**: Java Swing is used to build the graphical user interface (GUI).
-- **Maven** (optional): You can use Maven for managing dependencies and building the project.
+
 
 ## Getting Started 🚀
 
@@ -22,7 +22,6 @@ A simple, user-friendly calculator application built with Java. This app allows 
 Make sure you have the following installed on your machine:
 
 - **Java Development Kit (JDK)**: Version 8 or higher.
-- **Maven** (optional): For building the project.
 
 ### Installation
 
@@ -42,6 +41,6 @@ java AmyCalculator
 ```
 
 ### Usage 📱
-Open the application.
-Use the buttons for basic calculations: addition, subtraction, multiplication, and division.
-The result will be displayed in the output area.
+- Open the application.
+- Use the buttons for basic calculations: addition, subtraction, multiplication, and division.
+- The result will be displayed in the output area.
